@@ -1,0 +1,51 @@
+Key Contents
+HTML, CSS, JavaScript Differences
+
+HTML: Structures the web page content (text, images, buttons, etc.).
+
+CSS: Handles the style and design of the web page (background color, fonts, layout, etc.).
+
+JavaScript: Adds functionality to the web page (e.g., posting a tweet).
+
+HTML Basic Structure
+HTML is composed of tags. Tags are used in a format like <tagname>.
+
+Most tags come in pairs: an opening tag (<tag>) and a closing tag (</tag>).
+
+Tags without content can be used as self-closing tags (e.g., <img />).
+
+Attributes can be added to tags to provide additional information (e.g., <img src="image.jpg">).
+
+Essential Web Page Tags
+<html>: The top-level tag that encloses the entire HTML document.
+
+<head>: Includes the page's metadata (title, stylesheets, etc.).
+
+<body>: Contains the content that the user actually sees on the web page.
+
+<title>: Sets the title of the page that appears in the web browser tab.
+
+Text-Related Tags
+<h1> to <h6>: These are heading tags; the smaller the number, the more important the heading.
+
+<p>: Represents a paragraph.
+
+<strong>: Displays text in bold.
+
+<em>: Displays text in italics.
+
+<br>: Used for a line break.
+
+Other Useful Tags
+<button>: Creates a clickable button.
+
+<ul> and <li>: Create an unordered list (bullet points).
+
+<ol> and <li>: Create an ordered list (numbered list).
+
+
+
+
+
+
+
