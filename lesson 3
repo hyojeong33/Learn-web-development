@@ -1,0 +1,33 @@
+Getting Started with CSS
+
+CSS uses rules composed of three parts—a selector, a property, and a value—to specify the style of HTML elements.
+
+Selector: Chooses the HTML element to apply the style to. For example, h1 selects all <h1> tags.
+Property: Specifies the type of style to change. For instance, color changes the font color, font-family changes the font, and background-color changes the background color.
+Value: Assigns a specific value to the property. For example, red means the color red, and Arial refers to the Arial font.
+
+Style Application Examples
+You write CSS code inside a <style> tag, which is placed within the <head> tag of your HTML document.
+
+HTML
+<head>
+  <style>
+    /* Write your CSS code here. */
+  </style>
+</head>
+Example: To change the font color of <h1> tags to red, you would write the following:
+
+CSS
+h1 {
+  color: red;
+}
+Example: To change both the background color and font, you would write this:
+
+CSS
+p {
+  background-color: lightgray;
+  font-family: Arial, sans-serif;
+}
+
+The reason for specifying multiple fonts in font-family is to provide a fallback font in case the user's computer 
+doesn't have the first font installed. sans-serif tells the browser to use a default sans-serif font available on the computer.
