@@ -1,0 +1,20 @@
+This video is a tutorial for beginner web developers on how to use CSS's display property to complete a web page layout.
+
+Key Concepts
+HTML & CSS Layout: The video demonstrates how to build a basic web page structure using margin and padding and then finalize the layout using the CSS display property.
+
+Div Creation & Styling: It explains how to create three div elements in HTML and style them with background colors using CSS.
+
+The display Property:
+
+block: The default value, where an element takes up the full width available.
+
+inline: An element's width is adjusted to its content, and you cannot manually set the width or height.
+
+inline-block: Similar to inline but allows you to set the width and height.
+
+flex: Applied to a parent container to create a flexible layout for its child elements. You can arrange items in various directions like row, column, and row-reverse using the flex-direction property.
+
+Flexbox Layout: The tutorial provides a detailed explanation of creating a Flexbox layout using display: flex. It also shows how to use margin: auto to distribute elements evenly.
+
+Creating a Navigation Menu: The video demonstrates how to build a navigation menu using inline-block. It uses <ul> and <li> tags to create a list and then removes the bullet points with list-style-type: none.
